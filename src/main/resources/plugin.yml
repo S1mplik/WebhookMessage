@@ -1,0 +1,4 @@
+name: Webhook
+version: ${project.version}
+main: webhook.danix25.webhook.Main
+authors: [ Danix25 ]
